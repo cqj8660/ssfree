@@ -1,11 +1,19 @@
 # 暂时有效，若失效，请关注更新！
 
-# 免费ss账号
-> 最近一次更新于北京时间2019.12.20
+# 免费SSR、Trojan账号
+> 最近一次更新于北京时间2023.05
 
 ### 声明
 - 说明：仅供测试使用，请遵守国家法律法规！
 - 服务器已禁止大文件下载、爬虫抓取等行为！
+
+### 免费SSR服务器
+- [Free SSR proxy](https://proxy.trojanfree.top)
+
+### 免费trojan服务器
+
+- [Free trojan proxy](https://www.trojanfree.com)
+
 
 
 ### 免费账号使用须知：
